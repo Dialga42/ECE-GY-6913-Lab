@@ -1,0 +1,2 @@
+# ECE-GY-6913-Lab
+A uniprocessor computer is built from the blocks developed. An assembly language and an instruction set are presented. Processor implementation with a data path and hardwired and microprogrammed control is introduced. Performance evaluation of computers is studied. Basic pipelining is introduced to improve system performance. Memory-hierarchy alternatives are introduced to improve the capacity of the computing system. Techniques to exploit instruction level parallelism will be studied.
